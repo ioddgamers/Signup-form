@@ -1,6 +1,7 @@
 # Frontend Mentor - Intro component with sign up form
 
-![Design preview for the Intro component with sign up form coding challenge](./design/desktop-preview.jpg)
+![desktop-preview](https://github.com/ioddgamers/Signup-form/assets/25953991/d957dca9-9431-421f-b3a9-9cb3ceb49799)
+
 
 ## Welcome! 👋
 
