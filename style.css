@@ -271,6 +271,8 @@ footer a:visited {
 
     #claim-trial:hover {
         cursor: pointer;
+        background-color: var(--Dark-Blue);
+        box-shadow: inset 0px -5px 4px 0px hsl(249, 16%, 18%);
     }
 
 }
