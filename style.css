@@ -16,7 +16,7 @@
 }
 
 body {
-    background-image: url(/intro-component-with-signup-form-master/images/bg-intro-mobile.png);
+    background-image: url(images/bg-intro-mobile.png);
     background-color: var(--Red);
     display: flex;
     flex-direction: column;
@@ -227,7 +227,7 @@ footer a:visited {
 
 @media screen and (min-width: 768px) {
     body {
-        background-image: url(/intro-component-with-signup-form-master/images/bg-intro-desktop.png);
+        background-image: url(images/bg-intro-desktop.png);
         background-color: var(--Red);
         align-items: center;
         justify-content: center;
